@@ -1,0 +1,4 @@
+//define.h
+#define PRJ_NAME  "TESTHTTPREQUEST"
+#define PRJ_Ver   "1.0.0"
+#define DB_Ver    "mysql5.3"
